@@ -57,7 +57,7 @@ Node app.js
 Open Your favourite browser and go to localhost:3000 to access this site.
 
 ## At a glance:
-![alt text](images/Screenshot 2022-09-11 170408.png)
+![alt text](images/Screenshot(2).png)
 ![alt text](images/Screenshot(55).png)
 
 
