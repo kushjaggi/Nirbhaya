@@ -2,7 +2,7 @@
 Because you must look before you leave!
 
 
-We are going to address the issue of safety in our project named ‘Nirbhaya’ after the Nirbhaya Case which shook the nation .
+We are going to address the issue of safety in our project named ‘Nirbhaya’ after the Nirbhaya Case which shook the entire nation .
 
 The national capital of India, Delhi has got the dubious distinction of topping the list in cases of murder, kidnapping and abduction, juveniles in conflict and economic offences. Delhi reported 33% (13,803 cases out of total 41,761 cases in 19 cities) of total crimes against women, followed by Mumbai at 12.3% (5,128 cases) last year among the 19 cities with population above two million.
 
